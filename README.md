@@ -1,7 +1,7 @@
 # PersianNumberWithLove!
 
 ## Introduction
-Did you have a problem writing persian numbers in google spreadsheets? 
+Did you have problem writing persian numbers in google spreadsheets? 
 Your google spreadsheet functions don't work and you start to hate persian 
 standard keyboard? Stop hating awesome persian keyboard standard and start 
 loving this Google App Script.
